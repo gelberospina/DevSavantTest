@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FrontEnd-TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85a62464-edee-4edf-acda-aafdab27a63c</testCaseGuid>
+   <variable>
+      <defaultValue>'Devsavant'</defaultValue>
+      <description></description>
+      <id>c069d27d-a3ac-443a-b425-6cc407297f85</id>
+      <masked>false</masked>
+      <name>companyName</name>
+   </variable>
+</TestCaseEntity>
